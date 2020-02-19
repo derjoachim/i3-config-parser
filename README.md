@@ -13,7 +13,7 @@ This is a reimplementation of [my earlier i3wm confiiguration parser](https://gi
 
 ### Installation
 - Clone (or fork and clone) in your go development environment.
-- Run `go build i3-confiig-parser.go`.
+- Run `go build i3-config-parser.go`.
 - Run `go install i3-config-parser.go`.
 
 ## How it works
